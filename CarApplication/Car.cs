@@ -19,7 +19,11 @@ namespace CarApplication
       
 
         // default constructor
+        public Car()
+        {
 
+
+        }
 
 
         // constuctor

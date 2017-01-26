@@ -28,7 +28,7 @@ namespace CarApplication
 
             Car nascar = new Car("Speedstrep");
             nascar.PrintData();
-            nascar.Color("Black");
+            nascar.Color = "Black";
             nascar.Engine = 7.3;
             nascar.PrintData();
         }
