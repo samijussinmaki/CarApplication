@@ -9,7 +9,18 @@ namespace HeaterApplication
     class Heater
     {
         // properties
-        // constuctors
 
-    }
+        public bool Power { get; set; }
+        public double Temperature { get; set; }
+        public int Humidity { get; set; }
+
+        // constuctors
+        // methods
+
+        public void PrintData()
+        {
+            
+           
+
+        }
 }
