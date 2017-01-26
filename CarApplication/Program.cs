@@ -30,6 +30,7 @@ namespace CarApplication
             nascar.PrintData();
             nascar.Color = "Black";
             nascar.Engine = 7.3;
+            nascar.DoorCount = 2;
             nascar.PrintData();
         }
     }
